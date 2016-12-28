@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/12/28 14:31:22。
+     1>项目“F:\自编程练习\client\client\client.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt client.cpp
+         client.cpp
+     1>f:\自编程练习\client\client\client.cpp(44): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 d:\visual studio 2013\vc\include\conio.h(131) : 参见“getch”的声明
+       Link:
+         D:\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\自编程练习\client\Debug\client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\自编程练习\client\Debug\client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\自编程练习\client\Debug\client.lib" /MACHINE:X86 Debug\client.obj
+         Debug\stdafx.obj
+         client.vcxproj -> F:\自编程练习\client\Debug\client.exe
+     1>已完成生成项目“F:\自编程练习\client\client\client.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.11
